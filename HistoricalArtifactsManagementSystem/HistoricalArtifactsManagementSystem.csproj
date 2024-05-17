@@ -67,6 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\HistoricalArtifactsDB.mdf" />
+    <Content Include="App_Data\HistoricalArtifactsDB_log.ldf">
+      <DependentUpon>HistoricalArtifactsDB.mdf</DependentUpon>
+    </Content>
     <Content Include="css\input.css" />
     <Content Include="src\Test.aspx" />
     <Content Include="tailwind.config.js" />
