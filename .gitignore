@@ -1,1 +1,14 @@
 HistoricalArtifactsManagementSystem/node_modules
+
+# Ignore project-specific build artifacts
+HistoricalArtifactsManagementSystem/bin/
+HistoricalArtifactsManagementSystem/obj/
+
+# Ignore Visual Studio files
+*.vs/
+
+# Ignore NuGet packages
+packages/
+
+# Exclude solution file
+HistoricalArtifactsManagementSystem.sln
