@@ -6,6 +6,7 @@ HistoricalArtifactsManagementSystem/obj/
 
 # Ignore Visual Studio files
 *.vs/
+HistoricalArtifactsManagementSystem/.vs
 
 # Ignore NuGet packages
 packages/
