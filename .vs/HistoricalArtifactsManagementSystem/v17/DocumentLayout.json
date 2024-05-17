@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\wep2\\final pr\\historical-artifacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B112536-478C-4835-BB3F-C1A6C070D795}|Solution Items{8B112536-478C-4835-BB3F-C1A6C070D795}|D:\\University\\wep2\\final pr\\historical-artifacts\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8B112536-478C-4835-BB3F-C1A6C070D795}|Solution Items{8B112536-478C-4835-BB3F-C1A6C070D795}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|D:\\University\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\src\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\src\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|D:\\University\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\css\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\css\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|D:\\University\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:35:19.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\WebForm1.aspx",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-17T10:35:04.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-17T10:34:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "input.css",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\css\\input.css",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\css\\input.css",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\css\\input.css",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\css\\input.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-17T10:34:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\tailwind.config.js",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\tailwind.config.js",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\tailwind.config.js",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\tailwind.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-17T10:34:46.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.aspx",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\Test.aspx",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\src\\Test.aspx",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\Test.aspx",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\src\\Test.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-17T10:34:46.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
