@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "D:\\University\\wep2\\final pr\\historical-artifacts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\src\\humanresources\\hr_home_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\src\\humanresources\\hr_home_page.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\src\\humanresources\\hr_home_page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\src\\humanresources\\hr_home_page.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B112536-478C-4835-BB3F-C1A6C070D795}|Solution Items{8B112536-478C-4835-BB3F-C1A6C070D795}|D:\\University\\wep2\\final pr\\historical-artifacts\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8B112536-478C-4835-BB3F-C1A6C070D795}|Solution Items{8B112536-478C-4835-BB3F-C1A6C070D795}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|D:\\University\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\src\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\src\\test.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\src\\humanresources\\hr_home_page.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\src\\humanresources\\hr_home_page.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|D:\\University\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\css\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\css\\input.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|D:\\University\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{8B112536-478C-4835-BB3F-C1A6C070D795}|Solution Items{8B112536-478C-4835-BB3F-C1A6C070D795}|D:\\University\\wep2\\final pr\\historical-artifacts\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8B112536-478C-4835-BB3F-C1A6C070D795}|Solution Items{8B112536-478C-4835-BB3F-C1A6C070D795}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|d:\\university\\wep2\\final pr\\historical-artifacts\\historicalartifactsmanagementsystem\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{DE148F56-9CC1-4E8C-A4F4-4E6F2DA24C6A}|HistoricalArtifactsManagementSystem\\HistoricalArtifactsManagementSystem.csproj|solutionrelative:historicalartifactsmanagementsystem\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
@@ -34,37 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
-              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
-              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
-              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\WebForm1.aspx.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T10:35:19.9Z",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\Web.config",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\Web.config",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\Web.config",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T16:21:54.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WebForm1.aspx",
-              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx",
-              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\WebForm1.aspx",
-              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\WebForm1.aspx",
-              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\WebForm1.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-17T10:35:04.742Z",
+              "Title": "HR_home_page.aspx.cs",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.cs",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.cs",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.cs",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:52:11.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "HR_home_page.aspx",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-19T15:22:22.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HR_home_page.aspx.designer.cs",
+              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.designer.cs",
+              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.designer.cs",
+              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.designer.cs",
+              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\src\\HumanResources\\HR_home_page.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:45:46.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -90,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\tailwind.config.js",
               "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\tailwind.config.js",
@@ -98,19 +128,6 @@
               "RelativeToolTip": "HistoricalArtifactsManagementSystem\\tailwind.config.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-17T10:34:46.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Test.aspx",
-              "DocumentMoniker": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\Test.aspx",
-              "RelativeDocumentMoniker": "HistoricalArtifactsManagementSystem\\src\\Test.aspx",
-              "ToolTip": "D:\\University\\wep2\\final pr\\historical-artifacts\\HistoricalArtifactsManagementSystem\\src\\Test.aspx",
-              "RelativeToolTip": "HistoricalArtifactsManagementSystem\\src\\Test.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-05-17T10:34:46.448Z",
               "EditorCaption": ""
             }
