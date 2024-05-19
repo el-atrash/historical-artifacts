@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HistoricalArtifactsManagementSystem
+namespace HistoricalArtifactsManagementSystem.src
 {
 
 
-    public partial class WebForm1
+    public partial class home
     {
 
         /// <summary>
