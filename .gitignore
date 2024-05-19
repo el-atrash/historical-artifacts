@@ -13,3 +13,6 @@ packages/
 
 # Exclude solution file
 HistoricalArtifactsManagementSystem.sln
+
+*.suo
+*.user
