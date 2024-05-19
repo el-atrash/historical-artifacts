@@ -72,21 +72,70 @@
       <DependentUpon>HistoricalArtifactsDB.mdf</DependentUpon>
     </Content>
     <Content Include="css\input.css" />
-    <Content Include="src\Test.aspx" />
+    <Content Include="src\home.aspx" />
+    <Content Include="src\Login.aspx" />
+    <Content Include="src\Register.aspx" />
+    <Content Include="src\Warehouse\AddArtifact.aspx" />
+    <Content Include="src\Warehouse\Artifacts.aspx" />
+    <Content Include="src\Warehouse\DeleteArtifact.aspx" />
+    <Content Include="src\Warehouse\EditArtifact.aspx" />
     <Content Include="tailwind.config.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="src\Test.aspx.cs">
-      <DependentUpon>Test.aspx</DependentUpon>
+    <Compile Include="src\home.aspx.cs">
+      <DependentUpon>home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="src\Test.aspx.designer.cs">
-      <DependentUpon>Test.aspx</DependentUpon>
+    <Compile Include="src\home.aspx.designer.cs">
+      <DependentUpon>home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\Warehouse\AddArtifact.aspx.cs">
+      <DependentUpon>AddArtifact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\Warehouse\AddArtifact.aspx.designer.cs">
+      <DependentUpon>AddArtifact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\Warehouse\Artifacts.aspx.cs">
+      <DependentUpon>Artifacts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\Warehouse\Artifacts.aspx.designer.cs">
+      <DependentUpon>Artifacts.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\Warehouse\DeleteArtifact.aspx.cs">
+      <DependentUpon>DeleteArtifact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\Warehouse\DeleteArtifact.aspx.designer.cs">
+      <DependentUpon>DeleteArtifact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="src\Warehouse\EditArtifact.aspx.cs">
+      <DependentUpon>EditArtifact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="src\Warehouse\EditArtifact.aspx.designer.cs">
+      <DependentUpon>EditArtifact.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="package.json" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -95,7 +144,10 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="src\HumanResources\" />
+    <Folder Include="src\Marketing\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
